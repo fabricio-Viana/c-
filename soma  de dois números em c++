@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int a,b,c;
+  cout << "vamos somar dois numeros\n";
+  cout << "digite o primeiro numero\n";
+  cin >> a;
+  cout << "digite o segundo numero\n";
+  cin >> b;
+  c = a+b;
+ cout <<"O resultado da soma dos dois números é "<< c << "\n"; 
+}
